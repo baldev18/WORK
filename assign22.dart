@@ -12,7 +12,7 @@ void main()
     print(b);
   }
   finally
-      {
-        print("done");
-      }
+  {
+    print("done");
+  }
 }
