@@ -4,8 +4,8 @@ void main()
 {
   try
   {
-    File f=File("b.txt");
-    f.writeAsStringSync("bafbb");
+    File f=File("c://b.txt");
+    f.writeAsString("hello");
   }
   catch(b)
   {
